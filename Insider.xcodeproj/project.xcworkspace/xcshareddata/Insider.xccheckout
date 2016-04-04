@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4B261533-0DB4-4C96-AFA0-A8D26540C14A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Insider</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>427A486C4009BEEF32353A327C2261999F29689A</key>
+		<string>https://github.com/danikag/GAITamid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Insider/Insider.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>427A486C4009BEEF32353A327C2261999F29689A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danikag/GAITamid.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>427A486C4009BEEF32353A327C2261999F29689A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>427A486C4009BEEF32353A327C2261999F29689A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GAITamid</string>
+		</dict>
+	</array>
+</dict>
+</plist>
